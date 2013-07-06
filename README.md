@@ -1,4 +1,3 @@
-tutorial_galletitas
-===================
+# Laravel Application Example
 
-Ejemplo de Uso del Framework  Laravel para el Proyecto Galletitas S.A.de C.V.
+**Example of using Laravel Framework Laravel for Galletitas S.A.de C.V. Project.**
