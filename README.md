@@ -18,7 +18,7 @@ This is a medium difficulty project, Laravel 3 (now migrating Laravel this April
 ## <a name='screenshots'>Screenshots</a>
 
 ![Login Pagel](/public/img/galletitas.png)
-![Admin Panel](/public/img/galletitas.png)
+![Admin Panel](/public/img/galletitas_1.png)
 
 
 ## <a name='tech'>Technologies</a>
