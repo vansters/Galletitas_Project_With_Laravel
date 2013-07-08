@@ -33,16 +33,6 @@ This is a medium difficulty project, Laravel 3 (now migrating Laravel this April
 	- MCrypt PHP Extension
 
 
-1. Copy this Repository intro.
-```
-<path to Apache2 directory>/www/
-2. Laravel requires one set of permissions to be configured - folders within app/storage require write access by the web server.
-3. Visit [http://localhost](http://localhost) in a web browser.
-4. Note: you need to set in your apache & PHP:
-	- PHP >= 5.3.7
-	- MCrypt PHP Extension
-
-
 ## <a name='tips'>Tips</a>
 
 - **If you want pretty url, follow the steps in this link:**
