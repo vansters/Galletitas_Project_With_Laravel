@@ -1,0 +1,281 @@
+body, form {
+    font-family: "Droid Sans", Helvetica, Arial, sans-serif;
+}
+
+.barra_sup{
+    background-color: #2a2e36;
+    height: 50px;
+}
+.barra_sup .alert{
+    margin-top: 6px;
+    margin-right: 40px;
+}
+.barra_logo{
+    height: 100px;
+}
+
+.barra_logo h3{
+    padding: 20px 0px 0px 30px;
+    text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
+}
+.barra_logo img{
+    padding-top: 12px;
+}
+
+.contenedor{
+    background-color: #f8f9fa;
+    padding-top: 50px;
+}
+
+.body_formulario{
+    padding: 20px 10px 0px 10px;
+    margin: 0 auto 20px;
+    background-color: #2a2e36;
+    color: #000000;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+
+}
+.body_formulario label{
+    padding-bottom: 15px;
+    padding-left: 45px;
+    font-size: 1.2em;
+    font-style: inherit;
+    color: #ffffff;
+}
+.body_formulario input[type="text"], .body_formulario input[type="password"]{
+    width: 300px;
+    height: 30px;
+    font-size: 1.2em;
+}
+.body_formulario a{
+    margin-bottom: 20px;
+}
+
+.pie{
+    padding-top: 5%;
+}
+
+/*============	Estilos para Panel 	============*/
+.btn-group{
+    margin-top: 8px;
+    padding: 2px 8px 8px 8px;
+}
+.btn-group i{
+    margin: 1px 14px 0px 10px;
+}
+
+.btn_alertas{
+    margin-top: 6px;
+    margin-right: 40px;
+    padding: 8px 8px 8px 8px;
+    background-color: #3f4551;
+    color: #ffffff;
+    border: 1px solid #3f4551;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+.btn_alertas:hover{
+    background-color: #5d6677;
+    cursor: pointer;
+}
+.btn_alertas span{
+    margin: 0px 10px 0px 10px;
+}
+.btn_alertas span:hover{
+    background-color: #0D75AC;
+}
+.btn_alertas i{
+    margin: 1px 14px 0px 10px;
+}
+
+
+.btn_cerrar{
+    margin-top: 6px;
+    padding: 8px 8px 8px 8px;
+    background-color: #3f4551;
+    color: #ffffff;
+    border: 1px solid #3f4551;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+.btn_cerrar:hover{
+    background-color: #5d6677;
+    cursor: pointer;
+}
+.btn_cerrar i{
+    margin: 1px 10px 0px 28px;
+}
+
+
+/*============	Estilos para Contenedor de Tabs 	============*/
+.contenedor_tabs{
+    padding-top: 50px;
+}
+.header_tab{
+    color: #ffffff;
+    margin-top: 25px;
+    background-color: #2a2e36;
+    border: 1px solid #2a2e36;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+
+}
+.header_tab h3{
+    margin-left: 30px;
+}
+
+.btn_menu{
+    margin-top: 8px;
+    color: #ffffff;
+}
+
+.btn_menu a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.btn_menu:hover{
+    cursor: pointer;
+    border: 2px solid #3f4551;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+.actived{
+    margin-top: 8px;
+    color: #ffffff;
+    border: 2px solid #3f4551;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05); 
+}
+.actived a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.botones{padding-top: 30px;}
+
+#lC .icon-trash, .icon-edit, .icon-search{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+#lC .icon-search{
+    margin-left: 18px;
+}
+.buscador{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+/*  ============================================================== */
+.modal_1 {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  z-index: 1050;
+  width: 700px;
+  margin-left: -350px;
+  background-color: #ffffff;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  *border: 1px solid #999;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  outline: none;
+  -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  -webkit-background-clip: padding-box;
+     -moz-background-clip: padding-box;
+          background-clip: padding-box;
+}
+
+.modal_1.fade {
+  top: -25%;
+  -webkit-transition: opacity 0.3s linear, top 0.3s ease-out;
+     -moz-transition: opacity 0.3s linear, top 0.3s ease-out;
+       -o-transition: opacity 0.3s linear, top 0.3s ease-out;
+          transition: opacity 0.3s linear, top 0.3s ease-out;
+}
+
+.modal_1.fade.in {
+  top: 10%;
+}
+
+.modal_2 {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  z-index: 1050;
+  width: 1200px;
+  margin-left: -600px;
+  background-color: #ffffff;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  *border: 1px solid #999;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  outline: none;
+  -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  -webkit-background-clip: padding-box;
+     -moz-background-clip: padding-box;
+          background-clip: padding-box;
+}
+
+.modal_2.fade {
+  top: -25%;
+  -webkit-transition: opacity 0.3s linear, top 0.3s ease-out;
+     -moz-transition: opacity 0.3s linear, top 0.3s ease-out;
+       -o-transition: opacity 0.3s linear, top 0.3s ease-out;
+          transition: opacity 0.3s linear, top 0.3s ease-out;
+}
+
+.modal_2.fade.in {
+  top: 10%;
+}
+
+
+
+/*  ============================================================== */
+label.valid {
+  width: 20px;
+  height: 20px;
+  background: url(/img/valid.png) center center no-repeat;
+  display: inline-block;
+  text-indent: -9999px;
+}
+label.error {
+    color: red;
+    padding: 2px 8px;
+    margin-top: 2px;
+}
