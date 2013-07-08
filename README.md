@@ -23,7 +23,7 @@ This is a medium difficulty project, Laravel 3 (now migrating Laravel this April
 ## <a name='run'>Running</a>
 **With Apache2, PHP5 and MySQL ready**
 
-1. Copy this Repository intro
+1. Copy this Repository intro.
 ```
 <path to Apache2 directory>/www/
 2. Laravel requires one set of permissions to be configured - folders within app/storage require write access by the web server.
