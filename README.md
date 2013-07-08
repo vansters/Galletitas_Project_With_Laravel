@@ -43,8 +43,8 @@ This is a medium difficulty project, Laravel 3 (now migrating Laravel this April
 
 ## <a name='credit'>Credit</a>
 
-**Author of this project: Mario Andrade** [@TheVansters](https://twitter.com/TheVansters)
-**Laravel creator** [@taylorotwell](https://twitter.com/taylorotwell)
+- **Author of this project: Mario Andrade** [@TheVansters](https://twitter.com/TheVansters)
+- **Laravel creator** [@taylorotwell](https://twitter.com/taylorotwell)
 
 ## <a name='license'>License</a>
 
