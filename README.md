@@ -4,6 +4,7 @@
 ## <a name='TOC'>Table of Contents</a>
 
 1. [Introduction](#intro)
+1. [Screenshots](#screenshots)
 1. [Technologies](#tech)
 1. [Running](#run)
 1. [Tips](#tips)
@@ -13,6 +14,12 @@
 ## <a name='intro'>Introduction</a>
 
 This is a medium difficulty project, Laravel 3 (now migrating Laravel this April with their improvements) is the backbone of proyetco, The purpose of this is to learn the basics of PHP5 + Laravel + MySQL.
+
+## <a name='screenshots'>Screenshots</a>
+
+![Login Pagel](/public/img/galletitas.png)
+![Admin Panel](/public/img/galletitas.png)
+
 
 ## <a name='tech'>Technologies</a>
 
